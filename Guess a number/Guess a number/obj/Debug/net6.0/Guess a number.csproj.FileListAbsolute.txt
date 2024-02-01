@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\bin\Debug\net6.0\Guess a number.exe
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\bin\Debug\net6.0\Guess a number.deps.json
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\bin\Debug\net6.0\Guess a number.runtimeconfig.json
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\bin\Debug\net6.0\Guess a number.dll
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\bin\Debug\net6.0\Guess a number.pdb
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.dll
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\refint\Guess a number.dll
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.pdb
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\Guess a number.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Савина 23\Проекти\Guess a number\Guess a number\obj\Debug\net6.0\ref\Guess a number.dll
